@@ -1,30 +1,46 @@
-<h1 align="center">Hi 👋, I'm PhiLander Ntsako Malatji</h1>
-<h3 align="center">A passionate full stack developer from South Africa</h3>
+<!-- INSTALLATION -->
 
-<p align="left"> <a href="https://twitter.com/philanderntsako" target="blank"><img src="https://img.shields.io/twitter/follow/philanderntsako?logo=twitter&style=for-the-badge" alt="philanderntsako" /></a> </p>
+1. Install XAMPP or WAMPP.
+        -Download XAMPP from https://www.apachefriends.org.
 
-- 🌱 I’m currently learning **Javascript,Laravel 8**
+2. Open XAMPP Control panell and start [apache] and [mysql].
 
-- 👨‍💻 All of my projects are available at [phiLander.sweetsound.co.za](phiLander.sweetsound.co.za)
+3. Extract project files in C:\xampp\htdocs.
 
-- 💬 Ask me about **HTML,CSS, PHP, MYSQL, JAVASCRIPT**
+4. Open link localhost/phpmyadmin on a prefered web browser.
 
-- 📫 How to reach me **philandershingange25@gmail.com**
+5. Create a new database with the name [stock_management_system_db].
 
-- 📄 Know about my experiences [phiLander.sweetsound.co.za](phiLander.sweetsound.co.za)
+6. Browse the database file in directory [stock-management-system/config/stock_management_system_db.sql].
 
-- ⚡ Fun fact **I have 10 years in Music Production**
+7. Open link http://localhost/stock-management-system.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/philanderntsako" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="philanderntsako" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/philandermalatji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="philandermalatji" height="30" width="40" /></a>
-<a href="https://fb.com/philander ntsako" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="philander ntsako" height="30" width="40" /></a>
-<a href="https://instagram.com/philanderntsako" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="philanderntsako" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sweet sound family" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="sweet sound family" height="30" width="40" /></a>
-</p>
+8. Login
+        -Admin login details: Username = [admin1@gmail.com] and Password = [admin1].
+        -Admin login details: Username = [admin2@gmail.com] and Password = [admin2].
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+9. If it requires libraries, check links below and install in directory [stock-management-system/libs].
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=philanderntsako&show_icons=true&locale=en&layout=compact" alt="philanderntsako" /></p>
+<!-- HOW TO USE -->
+
+1. After loging in you will be redirected to the home page [stock-management-system/index.php] then navigate to [stock-management-system/stock.php] and add as many stock you want.
+
+2. The QRCode image will be automatically downloaded and uploaded to the directory [stock-management-system/images/]
+
+3. Navigate to scan and upload the QRCode image and it will redirect to single stock details.
+
+4. After updating stock quantity, you can either navigate to [stock-management-system/send-update.php] or [stock-management-system/logout.php] it will send report to manager's email in pdf format.
+
+<!-- LIBRARIES USED -->
+
+1. PHP QRCode Detector Decoder
+    - $ composer require khanamiryan/qrcode-detector-decoder
+
+2. PHP QRCode Generator
+    - Download: https://phpqrcode.sourceforge.net
+
+3. FPDF
+    - Download: https://fpdf.org/download
+
+4. PHP Mailer
+    - Download: https://sourceforge.net/projects/phpmailer/  
